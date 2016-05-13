@@ -1,6 +1,8 @@
 ---
 layout: post
 title: First post
+category: meow
+tag: meow2
 ---
 
 It is for test
